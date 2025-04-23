@@ -1,0 +1,28 @@
+{
+  "What is machine learning?": "Machine learning is an AI technique where computers learn from data to perform tasks without being explicitly programmed.",
+  "How do neural networks work?": "Neural networks, modeled after the human brain, use layers of connected nodes (neurons) to find patterns in data. Connections have weights adjusted during training.",
+  "Explain supervised learning.": "Supervised learning uses labeled data (input-output pairs) to train a model to make predictions on new, unseen inputs.",
+  "What is unsupervised learning?": "Unsupervised learning finds hidden structures or patterns in unlabeled data, often used for grouping similar data points (clustering).",
+  "Describe reinforcement learning.": "Reinforcement learning trains an agent through trial and error, using rewards and penalties to guide its actions towards a goal.",
+  "What are transformers in NLP?": "Transformers are a type of deep learning model architecture introduced in the paper 'Attention Is All You Need'. They rely heavily on self-attention mechanisms to process input data and are widely used in natural language processing.",
+  "What is the role of activation functions?": "Activation functions add non-linearity to neural networks, enabling them to learn complex relationships in data. Common examples are ReLU and Sigmoid.",
+  "Explain gradient descent.": "Gradient descent is an optimization method used to find the minimum of a function, like a model's error, by taking iterative steps in the direction of the negative gradient.",
+  "What is overfitting?": "Overfitting happens when a model learns the training data too well, including noise, leading to poor performance on new data.",
+  "How can overfitting be prevented?": "Overfitting can be reduced using techniques like regularization, dropout, getting more data, or stopping training early.",
+  "What is cross-validation?": "Cross-validation is a technique for assessing how the results of a statistical analysis will generalize to an independent data set. A common method is k-fold cross-validation.",
+  "Define precision and recall.": "Precision measures the proportion of true positive predictions among all positive predictions (TP / (TP + FP)). Recall measures the proportion of true positive predictions among all actual positive instances (TP / (TP + FN)).",
+  "What is the F1-score?": "The F1-score is the harmonic mean of precision and recall, providing a single metric that balances both concerns (2 * (Precision * Recall) / (Precision + Recall)).",
+  "What are Generative Adversarial Networks (GANs)?": "GANs consist of two neural networks, a generator and a discriminator, trained simultaneously through adversarial learning. The generator creates fake data, and the discriminator tries to distinguish fake data from real data.",
+  "Explain Natural Language Processing (NLP).": "NLP is a field of AI focused on enabling computers to understand, interpret, and generate human language.",
+  "What is tokenization in NLP?": "Tokenization is the process of breaking down text into smaller units called tokens (e.g., words or subwords).",
+  "Describe word embeddings.": "Word embeddings are numerical vector representations of words that capture semantic relationships. Examples include Word2Vec, GloVe, and FastText.",
+  "What is the purpose of a loss function?": "A loss function quantifies how well a machine learning model performs by measuring the difference between the predicted output and the actual target value.",
+  "Explain Convolutional Neural Networks (CNNs).": "CNNs are a class of deep neural networks, most commonly applied to analyzing visual imagery. They use convolutional layers to automatically learn spatial hierarchies of features.",
+  "What are Recurrent Neural Networks (RNNs)?": "RNNs are a type of neural network designed to handle sequential data by having connections that form directed cycles, allowing information to persist.",
+  "What is Long Short-Term Memory (LSTM)?": "LSTMs are a special kind of RNN capable of learning long-term dependencies, addressing the vanishing gradient problem in standard RNNs.",
+  "Define Artificial Intelligence (AI).": "AI refers to the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction.",
+  "What is the difference between AI, ML, and Deep Learning?": "AI is the broad concept of machines simulating human intelligence. ML is a subset of AI where systems learn from data. Deep Learning is a subset of ML that uses deep neural networks with many layers.",
+  "What is feature engineering?": "Feature engineering is the process of using domain knowledge to create features (input variables) that help machine learning algorithms perform better.",
+  "Explain the concept of bias in AI.": "AI bias refers to systematic errors in a computer system that create unfair outcomes, such as privileging one arbitrary group of users over others. It often stems from biased training data or algorithmic design."
+}
+

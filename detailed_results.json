@@ -1,0 +1,287 @@
+{
+  "detailed_results": [
+    {
+      "query": "What is machine learning?",
+      "answer": "Machine learning is a subset of artificial intelligence that involves training models to make predictions or decisions based on data. It focuses on developing systems that can learn from and make decisions based on data without being explicitly programmed to do so.",
+      "expected_answer": "Machine learning is an AI technique where computers learn from data to perform tasks without being explicitly programmed.",
+      "relevance_score": 0.85,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.85,
+      "bleu_score": 9.02349678619119,
+      "chrf_score": 49.34891692258742,
+      "ter_score": 188.88888888888889
+    },
+    {
+      "query": "How do neural networks work?",
+      "answer": "Neural networks are a set of algorithms modeled after the human brain, designed to recognize patterns. They consist of layers of interconnected nodes (neurons) that process and transmit information. Each connection has a weight that determines its importance, and these weights are adjusted during training to improve the network's performance on specific tasks.",
+      "expected_answer": "Neural networks, modeled after the human brain, use layers of connected nodes (neurons) to find patterns in data. Connections have weights adjusted during training.",
+      "relevance_score": 0.82,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.82,
+      "bleu_score": 16.03024834209039,
+      "chrf_score": 61.69943610194093,
+      "ter_score": 166.66666666666669
+    },
+    {
+      "query": "Explain supervised learning.",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "Supervised learning uses labeled data (input-output pairs) to train a model to make predictions on new, unseen inputs.",
+      "relevance_score": 0.7,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7,
+      "bleu_score": 1.5029740873775828,
+      "chrf_score": 11.111782181456583,
+      "ter_score": 94.44444444444444
+    },
+    {
+      "query": "What is unsupervised learning?",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "Unsupervised learning finds hidden structures or patterns in unlabeled data, often used for grouping similar data points (clustering).",
+      "relevance_score": 0.7749999999999999,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7749999999999999,
+      "bleu_score": 1.2638455222950324,
+      "chrf_score": 8.906191270862863,
+      "ter_score": 100.0
+    },
+    {
+      "query": "Describe reinforcement learning.",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "Reinforcement learning trains an agent through trial and error, using rewards and penalties to guide its actions towards a goal.",
+      "relevance_score": 0.7,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7,
+      "bleu_score": 1.5029740873775828,
+      "chrf_score": 13.35398352714831,
+      "ter_score": 95.0
+    },
+    {
+      "query": "What are transformers in NLP?",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "Transformers are a type of deep learning model architecture introduced in the paper 'Attention Is All You Need'. They rely heavily on self-attention mechanisms to process input data and are widely used in natural language processing.",
+      "relevance_score": 0.76,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.76,
+      "bleu_score": 0.30344523487772906,
+      "chrf_score": 8.363224575880928,
+      "ter_score": 97.22222222222221
+    },
+    {
+      "query": "What is the role of activation functions?",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "Activation functions add non-linearity to neural networks, enabling them to learn complex relationships in data. Common examples are ReLU and Sigmoid.",
+      "relevance_score": 0.7428571428571428,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7428571428571428,
+      "bleu_score": 1.2305311064153412,
+      "chrf_score": 10.618699860802892,
+      "ter_score": 95.23809523809523
+    },
+    {
+      "query": "Explain gradient descent.",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "Gradient descent is an optimization method used to find the minimum of a function, like a model's error, by taking iterative steps in the direction of the negative gradient.",
+      "relevance_score": 0.7,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7,
+      "bleu_score": 0.5529132673596238,
+      "chrf_score": 10.268160503280727,
+      "ter_score": 96.55172413793103
+    },
+    {
+      "query": "What is overfitting?",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "Overfitting happens when a model learns the training data too well, including noise, leading to poor performance on new data.",
+      "relevance_score": 0.7999999999999999,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7999999999999999,
+      "bleu_score": 1.3599471925976852,
+      "chrf_score": 12.964808819794458,
+      "ter_score": 95.0
+    },
+    {
+      "query": "How can overfitting be prevented?",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "Overfitting can be reduced using techniques like regularization, dropout, getting more data, or stopping training early.",
+      "relevance_score": 0.7,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7,
+      "bleu_score": 1.5436644068195333,
+      "chrf_score": 12.184237471006877,
+      "ter_score": 100.0
+    },
+    {
+      "query": "What is cross-validation?",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "Cross-validation is a technique for assessing how the results of a statistical analysis will generalize to an independent data set. A common method is k-fold cross-validation.",
+      "relevance_score": 0.7999999999999999,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7999999999999999,
+      "bleu_score": 0.8248496679006178,
+      "chrf_score": 11.775451798791288,
+      "ter_score": 96.15384615384616
+    },
+    {
+      "query": "Define precision and recall.",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "Precision measures the proportion of true positive predictions among all positive predictions (TP / (TP + FP)). Recall measures the proportion of true positive predictions among all actual positive instances (TP / (TP + FN)).",
+      "relevance_score": 0.7,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7,
+      "bleu_score": 0.12671169070954294,
+      "chrf_score": 7.206944613484881,
+      "ter_score": 100.0
+    },
+    {
+      "query": "What is the F1-score?",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "The F1-score is the harmonic mean of precision and recall, providing a single metric that balances both concerns (2 * (Precision * Recall) / (Precision + Recall)).",
+      "relevance_score": 0.7749999999999999,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7749999999999999,
+      "bleu_score": 0.28200205379256654,
+      "chrf_score": 8.978221568667172,
+      "ter_score": 100.0
+    },
+    {
+      "query": "What are Generative Adversarial Networks (GANs)?",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "GANs consist of two neural networks, a generator and a discriminator, trained simultaneously through adversarial learning. The generator creates fake data, and the discriminator tries to distinguish fake data from real data.",
+      "relevance_score": 0.7,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7,
+      "bleu_score": 0.33535884881550027,
+      "chrf_score": 7.337747854261585,
+      "ter_score": 96.875
+    },
+    {
+      "query": "Explain Natural Language Processing (NLP).",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "NLP is a field of AI focused on enabling computers to understand, interpret, and generate human language.",
+      "relevance_score": 0.7,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7,
+      "bleu_score": 1.8357366957662442,
+      "chrf_score": 11.592606346904024,
+      "ter_score": 94.11764705882352
+    },
+    {
+      "query": "What is tokenization in NLP?",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "Tokenization is the process of breaking down text into smaller units called tokens (e.g., words or subwords).",
+      "relevance_score": 0.82,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.82,
+      "bleu_score": 1.0347491962428474,
+      "chrf_score": 13.38076622821921,
+      "ter_score": 100.0
+    },
+    {
+      "query": "Describe word embeddings.",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "Word embeddings are numerical vector representations of words that capture semantic relationships. Examples include Word2Vec, GloVe, and FastText.",
+      "relevance_score": 0.7,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7,
+      "bleu_score": 1.2638455222950324,
+      "chrf_score": 11.292064052713398,
+      "ter_score": 100.0
+    },
+    {
+      "query": "What is the purpose of a loss function?",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "A loss function quantifies how well a machine learning model performs by measuring the difference between the predicted output and the actual target value.",
+      "relevance_score": 0.7749999999999999,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7749999999999999,
+      "bleu_score": 0.9362797910431625,
+      "chrf_score": 11.192347362357443,
+      "ter_score": 100.0
+    },
+    {
+      "query": "Explain Convolutional Neural Networks (CNNs).",
+      "answer": "Neural networks are a set of algorithms modeled after the human brain, designed to recognize patterns. They consist of layers of interconnected nodes (neurons) that process and transmit information. Each connection has a weight that determines its importance, and these weights are adjusted during training to improve the network's performance on specific tasks.",
+      "expected_answer": "CNNs are a class of deep neural networks, most commonly applied to analyzing visual imagery. They use convolutional layers to automatically learn spatial hierarchies of features.",
+      "relevance_score": 0.82,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.82,
+      "bleu_score": 2.250110187024035,
+      "chrf_score": 27.09101735917536,
+      "ter_score": 180.76923076923077
+    },
+    {
+      "query": "What are Recurrent Neural Networks (RNNs)?",
+      "answer": "Neural networks are a set of algorithms modeled after the human brain, designed to recognize patterns. They consist of layers of interconnected nodes (neurons) that process and transmit information. Each connection has a weight that determines its importance, and these weights are adjusted during training to improve the network's performance on specific tasks.",
+      "expected_answer": "RNNs are a type of neural network designed to handle sequential data by having connections that form directed cycles, allowing information to persist.",
+      "relevance_score": 0.85,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.85,
+      "bleu_score": 2.1498515598577344,
+      "chrf_score": 36.6391359527933,
+      "ter_score": 200.0
+    },
+    {
+      "query": "What is Long Short-Term Memory (LSTM)?",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "LSTMs are a special kind of RNN capable of learning long-term dependencies, addressing the vanishing gradient problem in standard RNNs.",
+      "relevance_score": 0.75,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.75,
+      "bleu_score": 1.2638455222950324,
+      "chrf_score": 8.652044558967537,
+      "ter_score": 100.0
+    },
+    {
+      "query": "Define Artificial Intelligence (AI).",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "AI refers to the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction.",
+      "relevance_score": 0.7,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7,
+      "bleu_score": 1.0074736594413143,
+      "chrf_score": 10.40996879707781,
+      "ter_score": 100.0
+    },
+    {
+      "query": "What is the difference between AI, ML, and Deep Learning?",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "AI is the broad concept of machines simulating human intelligence. ML is a subset of AI where systems learn from data. Deep Learning is a subset of ML that uses deep neural networks with many layers.",
+      "relevance_score": 0.73,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.73,
+      "bleu_score": 0.2308837538711256,
+      "chrf_score": 8.428986869715615,
+      "ter_score": 100.0
+    },
+    {
+      "query": "What is feature engineering?",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "Feature engineering is the process of using domain knowledge to create features (input variables) that help machine learning algorithms perform better.",
+      "relevance_score": 0.7749999999999999,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7749999999999999,
+      "bleu_score": 1.2305311064153412,
+      "chrf_score": 10.239499258783312,
+      "ter_score": 95.23809523809523
+    },
+    {
+      "query": "Explain the concept of bias in AI.",
+      "answer": "I don't have enough information to answer this question.",
+      "expected_answer": "AI bias refers to systematic errors in a computer system that create unfair outcomes, such as privileging one arbitrary group of users over others. It often stems from biased training data or algorithmic design.",
+      "relevance_score": 0.7428571428571428,
+      "faithfulness_score": 0.9,
+      "contextual_relevance_score": 0.7428571428571428,
+      "bleu_score": 0.33535884881550027,
+      "chrf_score": 7.4765761165985785,
+      "ter_score": 100.0
+    }
+  ],
+  "aggregate_metrics": {
+    "avg_relevance": 0.7554285714285714,
+    "avg_faithfulness": 0.9,
+    "avg_contextual_relevance": 0.7554285714285714,
+    "avg_bleu": 1.9768651255074914,
+    "avg_chrf": 15.6205127989309,
+    "avg_ter": 111.68663443272978
+  }
+}
