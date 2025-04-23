@@ -175,11 +175,8 @@ The system intelligently expands its knowledge base when:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Contributors
 
-- [Your Name](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Groq](https://groq.com/) for LLM API
 - [Pinecone](https://www.pinecone.io/) for vector database
